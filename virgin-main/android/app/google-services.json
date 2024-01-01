@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "73559861005",
+    "project_id": "travel-esim",
+    "storage_bucket": "travel-esim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73559861005:android:ed666b9b063ae3f1c9b244",
+        "android_client_info": {
+          "package_name": "com.beyondone.bol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73559861005-6uhunlrnjqot0oj3o4pb1q2q9i19t82j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyondone.bol",
+            "certificate_hash": "0b90dd393e8a849f851967ab990cd5ac9b77a619"
+          }
+        },
+        {
+          "client_id": "73559861005-utk5i4fne54rp60sl7o34l81s23hkal9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beyondone.bol",
+            "certificate_hash": "93361c551c01a806103da960a4874b1b3b08b470"
+          }
+        },
+        {
+          "client_id": "73559861005-cfduikl58jqioe248nb252mns3msb6hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxC2JCj5lr4ZJYll6gaIDIMT9a990c-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73559861005-cfduikl58jqioe248nb252mns3msb6hb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73559861005-3lvfm4c1ddq13699ljci3basjf7j1gib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyondone.bol"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73559861005:android:d6f66bfdf6678cf6c9b244",
+        "android_client_info": {
+          "package_name": "com.virginconnect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73559861005-cfduikl58jqioe248nb252mns3msb6hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHxC2JCj5lr4ZJYll6gaIDIMT9a990c-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73559861005-cfduikl58jqioe248nb252mns3msb6hb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73559861005-3lvfm4c1ddq13699ljci3basjf7j1gib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.beyondone.bol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
